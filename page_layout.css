@@ -1,0 +1,27 @@
+h2 {
+    color: #4168ff;
+    text-align: center;
+}
+
+player {
+    font-family: "Times New Roman";
+    font-size: 20px;
+    text-align: center;
+    color: green;
+}
+
+cardPlace {
+
+}
+
+evaluateButton{
+
+}
+
+answerBox{
+
+}
+
+.center{
+    text-align: center;
+}
